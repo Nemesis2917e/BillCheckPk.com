@@ -1,0 +1,115 @@
+/* Reset styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #b0d4f1;
+  padding: 1rem 2rem;
+}
+
+.logo h1 {
+  font-size: 1.8rem;
+  margin-bottom: 0.2rem;
+}
+
+.logo p {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+}
+
+.nav ul li {
+  margin: 0 1rem;
+}
+
+.nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.nav ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Hero Section */
+.hero-image img {
+  width: 80%;
+  height: 60%;
+  padding-left: 5%;
+  padding-bottom: 5%;
+  border-radius: 10px 10px 10px 10px;}
+
+/* Tabs */
+.tabs ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  background-color: #e6f3fc;
+  padding: 0.5rem 0;
+}
+
+.tabs ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+}
+
+.tabs ul li a:hover {
+  background-color: #cfe8fc;
+}
+
+/* Main Content */
+.content {
+  padding: 2rem;
+}
+/* Grid */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.grid-item {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+a:link{
+  text-decoration: none;
+  color: darkblue;}
+
+a:visited{
+  color: purple;
+}
+a:hover{
+  color: blue;
+  
+}
+
+.h1{
+  padding-left:5%
+}
