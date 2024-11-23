@@ -88,7 +88,7 @@ body {
 /* Grid */
 .grid {
   display: grid;
-  grid-template-columns: repeat( minmax(2rem, 1fr));
+  grid-template-columns: repeat( minmax(200px, 200px));
   gap: 1rem;
 }
 
