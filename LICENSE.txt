@@ -1,0 +1,31 @@
+Copyright (c) 2024 Saad Arshad
+All rights reserved.
+
+1. Grant of License
+
+This software is licensed, not sold. You are granted a non-exclusive, non-transferable, revocable license to use the "Bill Check PK" software for personal, internal use only, under the terms set forth in this license agreement.
+
+2. Restrictions
+
+You may not:
+
+Copy, reproduce, or distribute the software, in whole or in part, by any means, including electronic, mechanical, photocopying, recording, or otherwise.
+
+Modify, adapt, translate, or create derivative works based on the software.
+
+Decompile, reverse engineer, disassemble, or attempt to derive the source code of the software.
+
+Sell, rent, lease, sublicense, or transfer the software to any third party.
+
+
+3. Ownership
+
+The software and its components, including but not limited to the source code, documentation, and any updates, are owned by [Your Name or Organization] and are protected by copyright, trademark, and other intellectual property laws. All rights not expressly granted to you in this agreement are reserved by [Your Name or Organization].
+
+4. Termination
+
+This license is effective until terminated. Your rights under this license will automatically terminate without notice if you fail to comply with any provision of this license. Upon termination, you must immediately cease all use of the software and destroy all copies.
+
+5. No Warranty
+
+The software is provided "as-is," without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall [Your Name or Organization] be liable for any damages arising from the use or inability to use the software.
