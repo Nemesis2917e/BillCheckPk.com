@@ -89,7 +89,7 @@ body {
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 180px));
-  gap: 1rem;
+  gap: 18px;
 }
 
 .grid-item {
