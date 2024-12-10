@@ -67,10 +67,7 @@ body {
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 180px));
-  row-gap: 3%;
-  column-gap: 4%;
-  margin-left: 4%;
-  margin-top: 4%
+  gap:0.8rem;
 }
 
 .grid-item {
