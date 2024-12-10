@@ -8,7 +8,7 @@
 /* General styles */
 body {
   font-family: Arial, sans-serif;
-  line-height: 1.6;
+  line-height: 1.5;
   background-color: #f4f4f4;
   color: #333;
 }
@@ -59,37 +59,17 @@ body {
   padding-bottom: 5%;
   border-radius: 10px 10px 10px 10px;}
 
-/* Tabs */
-.tabs ul {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-  background-color: #e6f3fc;
-  padding: 0.5rem 0;
-}
-
-.tabs ul li a {
-  text-decoration: none;
-  color: #333;
-  font-weight: bold;
-  padding: 0.5rem 1rem;
-  border-radius: 4px;
-}
-
-.tabs ul li a:hover {
-  background-color: #cfe8fc;
-}
-
 /* Main Content */
 .content {
   padding: 2rem;
 }
 /* Grid */
 .grid {
- display: grid;
+  display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 180px));
-  gap: 5%;
+  row-gap: 3%;
+  column-gap: 4%;
+  margin-left: 4%;
 }
 
 .grid-item {
@@ -110,7 +90,7 @@ a:hover{
   
 }
 
-.h1{
+.h1,h1{
   padding-left:5%
 }
 
