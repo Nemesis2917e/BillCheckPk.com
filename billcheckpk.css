@@ -87,9 +87,9 @@ body {
 }
 /* Grid */
 .grid {
-  position:fixed;  display: grid;
+ display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 180px));
-  gap: 18px;
+  gap: 5%;
 }
 
 .grid-item {
