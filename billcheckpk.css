@@ -67,7 +67,7 @@ body {
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 180px));
-  gap:0.8rem;
+  gap:0.5rem;
 }
 
 .grid-item {
