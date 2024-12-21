@@ -75,12 +75,15 @@ body {
 
 /* Grid */
 .grid {
-  display: grid;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
   grid-template-columns: repeat(auto-fit, minmax(2, 1fr));
   gap: 1rem;
 }
 
 .grid-item {
+  flex: 0 0 48%;
   background: #fff;
   border-radius: 8px;
   padding: 1rem;
