@@ -77,7 +77,7 @@ body {
 .grid {
   display:flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: space-between;
   grid-template-columns: repeat(auto-fit, minmax(2, 1fr));
   gap: 1rem;
 }
