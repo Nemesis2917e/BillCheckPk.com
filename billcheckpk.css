@@ -75,17 +75,12 @@ body {
 
 /* Grid */
 .grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between; /*
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 1rem; */
+  grid-template-columns: repeat(auto-fit, minmax(2, 1fr));
+  gap: 1rem;
 }
 
 .grid-item {
-  flex: 0 0 48%; /* Takes approximately 48% of the row width */
-  margin-bottom: 10px;
   background: #fff;
   border-radius: 8px;
   padding: 1rem;
